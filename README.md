@@ -53,11 +53,11 @@ A seguir, destacam-se os principais marcos de sua trajetória acadêmico-cientí
 #### O que aprendi sobre Git e GitHub
 
 Para essa atividade, utilizei os seguintes comandos git em sequência:
-1. `git init`
-2. `git add .`
-3. `git commit -m`
-4. `git remote add origin`
-5. `git push --set-upstream origin master`
+1. `git init`: inicializa o git no projeto
+2. `git add .`: adiciona todos os arquivos ao git
+3. `git commit -m`: registra as atividades/modificações realizadas uma mensagem
+4. `git remote add origin`: vincula os repositórios local e remoto
+5. `git push --set-upstream origin master`: envia o arquivo na branch master do repositório local para a branch main no repositório remoto, renomeando a branch do repositório remoto permitindo, daqui em diante, fazer o envio com o comando `git push` simples
 
 ...e usarei novamente os comandos **2** e **3**, acrescidos de `git push` para acrescentar essa seção ao repositório remoto 🤓
 
