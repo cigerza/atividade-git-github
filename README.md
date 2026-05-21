@@ -43,8 +43,23 @@ A seguir, destacam-se os principais marcos de sua trajetória acadêmico-cientí
 
 ## 🔗 Referências
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Nina_da_Hora)
-
 - [Plataforma Lattes](https://encurtador.com.br/sGwC)
 
 - [Universa Talks](https://www.youtube.com/watch?v=NAWPUk2Z0cQ&t=1s)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Nina_da_Hora)
+
+
+#### O que aprendi sobre Git e GitHub
+
+Para essa atividade, utilizei os seguintes comandos git em sequência:
+1. `git init`
+2. `git add .`
+3. `git commit -m`
+4. `git remote add origin`
+5. `git push --set-upstream origin master`
+
+...e usarei novamente os comandos **2** e **3**, acrescidos de `git push` para acrescentar essa seção ao repositório remoto 🤓
+
+
+<sub>Observação: não poderei fazer o desafio extra e opcional, visto que já fiz o readme inicialmente com as melhorias sugeridas ao final 🤦‍♀️</sub>
